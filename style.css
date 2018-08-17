@@ -37,18 +37,18 @@ h1 {
     /* border: solid black */
 }
 
-#image-div {
+#img-div {
     width: 100%;
     background: gainsboro; 
     box-shadow: 0 0 8px 8px whitesmoke inset;
 }
 
-#image-caption {
+#img-caption {
     padding-top: 20px;
     padding-bottom: 20px;
 }
 
-#image-caption span {
+#img-caption span {
     font-style: italic;
 }
 
